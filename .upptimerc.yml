@@ -4,7 +4,7 @@ repo: EEI-Stats # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com
+    url: https://www.goog1le.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
