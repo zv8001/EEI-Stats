@@ -5,14 +5,21 @@ repo: EEI-Stats # The name of this repository
 sites:
   - name: ZV800.com
     url: https://www.zv800.com/
+    maxResponseTime: 1000
+    
   - name: EEI API
     url: https://eei-api-533b.netlify.app/
+    maxResponseTime: 1000
+    
   - name: Main Roblox
     url: https://www.roblox.com/
+    maxResponseTime: 1000
+    
   - name: Roblox Devform 
     url: https://devforum.roblox.com/
-
-     - name: Roblox Devhub
+    maxResponseTime: 1000
+    
+  - name: Roblox Devhub
     url: https://developer.roblox.com
     maxResponseTime: 1000
 
@@ -120,6 +127,8 @@ sites:
     url: https://voice.roblox.com/
     method: GET
     maxResponseTime: 1000
+
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
