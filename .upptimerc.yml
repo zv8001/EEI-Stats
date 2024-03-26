@@ -134,7 +134,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /EEI-Stats
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://images-ext-1.discordapp.net/external/XTUYFFEmesMEIOAwvzFWoMUm6v4tmRaveTY9rml0KDI/https/tr.rbxcdn.com/2ffb2c56800d820039b95b9022d0867b/150/150/Image/Png
   name: EEI Status
   introTitle: "**EEI Stats** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This website is mainly a Roblox monitoring page but also contains some features for EEI developers. This web server is run on GitHub and also powers the global-automated-status in the Extreme Energy Incorporated discord server. This page is entirely powered by uptime [**Get your own for free**](https://github.com/upptime/upptime)
