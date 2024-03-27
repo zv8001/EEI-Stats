@@ -149,19 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/avatar.roblox.com.ico",
     "slug": "avatar-api-endpoint",
     "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1458,
     "timeDay": 1458,
     "timeWeek": 1458,
     "timeMonth": 1458,
     "timeYear": 1458,
-    "dailyMinutesDown": {
-      "2024-03-27": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Auth API Endpoint",
@@ -402,18 +400,20 @@
     "url": "https://thumbnails.roblox.com/v1/assets?assetIds=82738847&format=Png&isCircular=false&size=30x30",
     "icon": "https://icons.duckduckgo.com/ip3/thumbnails.roblox.com.ico",
     "slug": "thumbnails-api-endpoint",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 651,
-    "timeWeek": 651,
-    "timeMonth": 651,
-    "timeYear": 651,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 919,
+    "timeDay": 919,
+    "timeWeek": 919,
+    "timeMonth": 919,
+    "timeYear": 919,
+    "dailyMinutesDown": {
+      "2024-03-27": 0
+    }
   },
   {
     "name": "Users API Endpoint",
