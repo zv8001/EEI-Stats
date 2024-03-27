@@ -148,19 +148,19 @@
     "url": "https://avatar.roblox.com/v1/avatar-rules",
     "icon": "https://icons.duckduckgo.com/ip3/avatar.roblox.com.ico",
     "slug": "avatar-api-endpoint",
-    "status": "degraded",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1605,
-    "timeDay": 1605,
-    "timeWeek": 1605,
-    "timeMonth": 1605,
-    "timeYear": 1605,
+    "status": "up",
+    "uptime": "98.96%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
+    "time": 1458,
+    "timeDay": 1458,
+    "timeWeek": 1458,
+    "timeMonth": 1458,
+    "timeYear": 1458,
     "dailyMinutesDown": {
-      "2024-03-27": 0
+      "2024-03-27": 9
     }
   },
   {
