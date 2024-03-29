@@ -401,19 +401,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/thumbnails.roblox.com.ico",
     "slug": "thumbnails-api-endpoint",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 850,
     "timeDay": 848,
     "timeWeek": 850,
     "timeMonth": 850,
     "timeYear": 850,
-    "dailyMinutesDown": {
-      "2024-03-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Users API Endpoint",
