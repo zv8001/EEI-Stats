@@ -148,18 +148,20 @@
     "url": "https://avatar.roblox.com/v1/avatar-rules",
     "icon": "https://icons.duckduckgo.com/ip3/avatar.roblox.com.ico",
     "slug": "avatar-api-endpoint",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1225,
-    "timeDay": 695,
-    "timeWeek": 1225,
-    "timeMonth": 1225,
-    "timeYear": 1225,
-    "dailyMinutesDown": {}
+    "time": 1437,
+    "timeDay": 2549,
+    "timeWeek": 1437,
+    "timeMonth": 1437,
+    "timeYear": 1437,
+    "dailyMinutesDown": {
+      "2024-04-02": 0
+    }
   },
   {
     "name": "Auth API Endpoint",
