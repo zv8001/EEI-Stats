@@ -40,18 +40,20 @@
     "url": "https://www.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.roblox.com.ico",
     "slug": "main-roblox",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 438,
-    "timeWeek": 494,
-    "timeMonth": 567,
-    "timeYear": 556,
-    "dailyMinutesDown": {}
+    "time": 570,
+    "timeDay": 980,
+    "timeWeek": 622,
+    "timeMonth": 598,
+    "timeYear": 570,
+    "dailyMinutesDown": {
+      "2024-05-23": 0
+    }
   },
   {
     "name": "Roblox Devform",
