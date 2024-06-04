@@ -4,18 +4,20 @@
     "url": "https://www.zv800.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zv800.com.ico",
     "slug": "zv-800-com",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 252,
-    "timeWeek": 199,
-    "timeMonth": 198,
-    "timeYear": 190,
-    "dailyMinutesDown": {}
+    "time": 239,
+    "timeDay": 2129,
+    "timeWeek": 675,
+    "timeMonth": 317,
+    "timeYear": 239,
+    "dailyMinutesDown": {
+      "2024-06-04": 0
+    }
   },
   {
     "name": "EEI API",
