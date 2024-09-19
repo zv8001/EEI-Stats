@@ -4,7 +4,7 @@ repo: EEI-Stats # The name of this repository
 
 sites:
   - name: ZV800.com
-    url: https://www.zv800.com/
+    url: https://www.zv800.com//
     maxResponseTime: 1000
     
   - name: EEI API
