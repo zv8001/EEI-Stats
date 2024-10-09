@@ -8,7 +8,7 @@
     "uptime": "44.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
-    "uptimeMonth": "33.44%",
+    "uptimeMonth": "33.46%",
     "uptimeYear": "44.74%",
     "time": 360,
     "timeDay": 882,
@@ -563,9 +563,9 @@
     "slug": "users-api-endpoint",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 517,
     "timeDay": 100,
@@ -573,7 +573,7 @@
     "timeMonth": 126,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 7
     }
   },
   {
