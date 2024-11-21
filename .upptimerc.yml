@@ -7,7 +7,7 @@ sites:
     url: https://www.zv800.com//
     maxResponseTime: 1000
     
- - name: EEI API
+  - name: EEI API
     url: https://eei-api-533b.netlify.app/
     maxResponseTime: 1000
     
