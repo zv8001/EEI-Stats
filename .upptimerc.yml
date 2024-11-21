@@ -123,6 +123,11 @@ sites:
     method: GET
     maxResponseTime: 1000
     
+    - name: TEST.BROKEN.SITE
+    url: TEST.BROKEN.SITEy399du3j9su.com
+    method: GET
+    maxResponseTime: 1000
+    
   - name: Voice Chat API
     url: https://voice.roblox.com/
     method: GET
