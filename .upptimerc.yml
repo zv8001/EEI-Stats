@@ -24,7 +24,7 @@ sites:
     maxResponseTime: 1000
 
   - name: Account Information API
-    url: https://accountinformation.roblox.com
+    url: https://accountinformation.roblox.com/v1/
     method: GET
     maxResponseTime: 1000
 
