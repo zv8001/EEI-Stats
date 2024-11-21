@@ -123,7 +123,7 @@ sites:
     method: GET
     maxResponseTime: 1000
     
-    - name: TESTBROKENSITE
+  - name: TESTBROKENSITE
     url: https://TEST.BROKEN.SITEy399du3j9su.com
     method: GET
     maxResponseTime: 1000
