@@ -1,7 +1,7 @@
 url: https://www.zv800.com//
-status: degraded
-code: 502
-responseTime: 9179
-lastUpdated: 2024-12-08T12:24:13.556Z
+status: up
+code: 200
+responseTime: 164
+lastUpdated: 2024-12-08T12:59:32.161Z
 startTime: 2024-03-26T20:27:51.792Z
 generator: Upptime <https://github.com/upptime/upptime>
