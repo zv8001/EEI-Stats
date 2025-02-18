@@ -179,19 +179,19 @@
     "url": "https://eei-api-533b.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/eei-api-533b.netlify.app.ico",
     "slug": "eei-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 378,
-    "timeWeek": 226,
-    "timeMonth": 175,
-    "timeYear": 151,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
+    "time": 152,
+    "timeDay": 426,
+    "timeWeek": 259,
+    "timeMonth": 185,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-02-18": 0
+      "2025-02-18": 34
     }
   },
   {
