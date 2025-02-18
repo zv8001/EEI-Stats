@@ -1,7 +1,7 @@
 url: https://eei-api-533b.netlify.app/
-status: up
-code: 200
-responseTime: 473
-lastUpdated: 2025-02-17T23:10:26.678Z
+status: down
+code: 502
+responseTime: 282
+lastUpdated: 2025-02-18T15:09:53.374Z
 startTime: 2024-11-21T18:59:24.759Z
 generator: Upptime <https://github.com/upptime/upptime>
