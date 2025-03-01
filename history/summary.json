@@ -8,12 +8,12 @@
     "uptime": "67.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.53%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "67.67%",
     "time": 708,
     "timeDay": 213,
     "timeWeek": 927,
-    "timeMonth": 758,
+    "timeMonth": 741,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2025-02-23": 96,
@@ -190,7 +190,7 @@
     "time": 154,
     "timeDay": 35,
     "timeWeek": 160,
-    "timeMonth": 199,
+    "timeMonth": 164,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-02-18": 66
@@ -210,7 +210,7 @@
     "time": 458,
     "timeDay": 223,
     "timeWeek": 203,
-    "timeMonth": 249,
+    "timeMonth": 255,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2024-10-13": 17,
@@ -231,7 +231,7 @@
     "time": 604,
     "timeDay": 845,
     "timeWeek": 646,
-    "timeMonth": 611,
+    "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2024-10-17": 35
@@ -243,18 +243,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/developer.roblox.com.ico",
     "slug": "roblox-devhub",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.89%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.89%",
     "time": 317,
     "timeDay": 213,
     "timeWeek": 228,
-    "timeMonth": 232,
+    "timeMonth": 235,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-02-28": 26,
+      "2025-03-01": 57,
+      "2025-02-28": 28,
       "2025-02-25": 47,
       "2025-02-24": 24
     }
@@ -273,7 +274,7 @@
     "time": 826,
     "timeDay": 576,
     "timeWeek": 603,
-    "timeMonth": 598,
+    "timeMonth": 630,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2025-02-28": 22,
@@ -336,7 +337,7 @@
     "time": 314,
     "timeDay": 169,
     "timeWeek": 161,
-    "timeMonth": 164,
+    "timeMonth": 162,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2024-10-29": 19,
@@ -357,7 +358,7 @@
     "time": 313,
     "timeDay": 104,
     "timeWeek": 105,
-    "timeMonth": 298,
+    "timeMonth": 314,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2025-02-10": 24,
@@ -378,7 +379,7 @@
     "time": 318,
     "timeDay": 127,
     "timeWeek": 151,
-    "timeMonth": 160,
+    "timeMonth": 161,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2024-11-21": 16
@@ -398,7 +399,7 @@
     "time": 332,
     "timeDay": 210,
     "timeWeek": 166,
-    "timeMonth": 171,
+    "timeMonth": 173,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2025-02-27": 22,
@@ -414,12 +415,12 @@
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.46%",
     "time": 773,
     "timeDay": 171,
     "timeWeek": 128,
-    "timeMonth": 464,
+    "timeMonth": 432,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2025-02-01": 24,
