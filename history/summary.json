@@ -224,9 +224,9 @@
     "slug": "roblox-devform",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 596,
     "timeDay": 754,
@@ -234,7 +234,6 @@
     "timeMonth": 520,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-04-18": 13,
       "2024-10-17": 35
     }
   },
@@ -252,7 +251,7 @@
     "time": 312,
     "timeDay": 188,
     "timeWeek": 302,
-    "timeMonth": 317,
+    "timeMonth": 320,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2025-04-15": 57,
