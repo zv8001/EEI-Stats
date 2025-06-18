@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zv800.com.ico",
     "slug": "zv-800-com",
     "status": "up",
-    "uptime": "75.53%",
+    "uptime": "75.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.36%",
+    "uptimeYear": "71.38%",
     "time": 621,
     "timeDay": 134,
     "timeWeek": 191,
@@ -166,8 +166,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -297,7 +296,7 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.76%",
     "time": 730,
-    "timeDay": 1427,
+    "timeDay": 1695,
     "timeWeek": 1162,
     "timeMonth": 695,
     "timeYear": 601,
