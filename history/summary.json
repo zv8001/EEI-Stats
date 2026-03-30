@@ -13,7 +13,7 @@
     "time": 329,
     "timeDay": 346,
     "timeWeek": 288,
-    "timeMonth": 244,
+    "timeMonth": 240,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2025-10-20": 17
@@ -27,13 +27,13 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.69%",
+    "uptimeWeek": "89.08%",
     "uptimeMonth": "97.05%",
     "uptimeYear": "99.72%",
     "time": 227,
     "timeDay": 207,
     "timeWeek": 231,
-    "timeMonth": 322,
+    "timeMonth": 314,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2026-03-23": 1206,
@@ -58,7 +58,7 @@
     "time": 690,
     "timeDay": 187,
     "timeWeek": 305,
-    "timeMonth": 3606,
+    "timeMonth": 3545,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2026-03-10": 69,
@@ -91,7 +91,7 @@
     "time": 669,
     "timeDay": 548,
     "timeWeek": 472,
-    "timeMonth": 460,
+    "timeMonth": 465,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2026-02-17": 58,
@@ -123,7 +123,7 @@
     "time": 331,
     "timeDay": 505,
     "timeWeek": 421,
-    "timeMonth": 377,
+    "timeMonth": 379,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2026-02-10": 43,
@@ -154,7 +154,7 @@
     "time": 459,
     "timeDay": 197,
     "timeWeek": 186,
-    "timeMonth": 176,
+    "timeMonth": 175,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2025-10-17": 17,
@@ -196,7 +196,7 @@
     "time": 192,
     "timeDay": 164,
     "timeWeek": 201,
-    "timeMonth": 186,
+    "timeMonth": 184,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2025-10-20": 40,
@@ -218,7 +218,7 @@
     "time": 182,
     "timeDay": 147,
     "timeWeek": 155,
-    "timeMonth": 177,
+    "timeMonth": 178,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2026-02-04": 30,
@@ -242,7 +242,7 @@
     "time": 164,
     "timeDay": 151,
     "timeWeek": 146,
-    "timeMonth": 136,
+    "timeMonth": 134,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2025-09-27": 24,
@@ -263,7 +263,7 @@
     "time": 168,
     "timeDay": 143,
     "timeWeek": 155,
-    "timeMonth": 156,
+    "timeMonth": 155,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-09-15": 27,
@@ -281,17 +281,16 @@
     "slug": "inventory-api-endpoint",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 186,
     "timeDay": 389,
     "timeWeek": 244,
     "timeMonth": 188,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2026-03-29": 6,
       "2025-09-15": 27,
       "2025-09-13": 23,
       "2025-06-27": 76
@@ -311,7 +310,7 @@
     "time": 421,
     "timeDay": 245,
     "timeWeek": 179,
-    "timeMonth": 316,
+    "timeMonth": 312,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2026-03-15": 63,
